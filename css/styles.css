@@ -1,0 +1,80 @@
+body{
+  margin : 0;
+  text-align :center;
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+  background-color: #e8ded2;
+}
+.hobby{
+  padding-top: 30px;
+  padding-bottom: 80px;
+}
+.coding_skills{
+  padding-top:30px;
+  padding-bottom: 80px;
+}
+
+.top-container{
+  padding-top:100px;
+
+}
+.hobby-row{
+  margin : 50px auto 50px auto;
+  width:50%;
+  line-height: 2;
+}
+
+.coding-row{
+  margin : 50px auto 50px auto;
+  width:50%;
+  line-height: 2;
+}
+
+h1{
+  color: #056676;
+  font-family: 'Sacramento', cursive;
+  margin-top: 50px;
+  font-size: 5.625rem;
+}
+h2{
+  font-family: 'Sacramento', cursive;
+  color: #5eaaa8;
+  font-size: 2.5rem;
+}
+
+h3{
+  color: #93c2ba;
+  font-family: 'Dosis', sans-serif;
+}
+
+.mtere{
+  width: 10%;
+  position:absolute;
+  left: 460px;
+  top:1890px;
+
+
+}
+
+#greetings{
+  position:relative;
+  bottom:100px;
+}
+#photo_profile{
+  padding-top: 50px;
+  height:200px;
+}
+#first-cloud{
+  position:relative;
+  right:260px;
+  bottom:40px;
+}
+#sec-cloud{
+  position:relative;
+  left:280px;
+  top:40px;
+}
+#mountain{
+  padding-bottom: 0;
+  width: 45%;
+}
